@@ -24,4 +24,4 @@ https://ft.unesa.ac.id
 
 # Poster
 
-![Marketplace Supermarket](https://github.com/DFerdiansyah03/Marketplace-Supermarket/assets/111141667/3d3f588a-c5e0-4bcb-818c-d2528a4c6b17)
+![MarketplaceSupermarket](https://github.com/DFerdiansyah03/Marketplace-Supermarket/assets/111141667/1a963b65-1b12-4226-8eae-fa48f2344219)
