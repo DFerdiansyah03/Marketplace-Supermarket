@@ -1,5 +1,5 @@
-# Web Marketplace-Supermarket
-# Oleh Kelompok 8 PTI 2022 B
+# Web Marketplace-Supermarket oleh Kelompok 8 PTI 2022 B
+
 
 # Deskripsi Aplikasi : 
 
